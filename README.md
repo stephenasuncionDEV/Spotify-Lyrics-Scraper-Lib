@@ -19,4 +19,5 @@ void GetLyrics()
 }
 ```
 
->Note: You need to install CURL LIB
+>Note: This API uses CURL Library 
+to get CURL Library visit [CURL](https://curl.haxx.se/)
