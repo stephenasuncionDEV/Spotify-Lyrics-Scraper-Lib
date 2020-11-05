@@ -1,0 +1,10 @@
+﻿  Using triplet "x86-windows" from "C:\DEV\vcpkg\installed\x86-windows\"
+  main.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+C:\Users\steph\OneDrive\Desktop\Spotify Lyrics Scraper\Spotify Lyrics Scraper\SpotifyLyricsScraperAPI.cpp(85): warning C4715: 'SpotifyLyricsScraperAPI::initialize': not all control paths return a value
+  266 of 445 functions (59.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Spotify Lyrics Scraper.vcxproj -> C:\Users\steph\OneDrive\Desktop\Spotify Lyrics Scraper\Release\Spotify Lyrics Scraper.exe
