@@ -1,4 +1,4 @@
-# Spotify-Lyrics-Scraper-API
+# Spotify-Lyrics-Scraper-API :musical_note:
 Get spotify's current song and extract lyrics from a website.
 
 -> This API extracts lyrics from https://www.azlyrics.com/. Usage of azlyrics.com content by any third-party lyrics provider is prohibited by their licensing agreement. This API is for educational purposes only.
