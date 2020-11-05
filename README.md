@@ -26,7 +26,7 @@ void GetLyrics()
 | Parameter  | Meaning |
 | ------------- | ------------- |
 | BOOL isPremium  | true if you have spotify premium, false otherwise  |
-| INT database  | 1 to use azlyrics.com (api currently have only 1 database for now)  |
+| INT database  | 1 to use azlyrics.com (api currently has 1 database for now)  |
 
 
 >Note: This API uses CURL Library      Get [CURL HERE!!!](https://curl.haxx.se/)
