@@ -19,5 +19,4 @@ void GetLyrics()
 }
 ```
 
->Note: This API uses CURL Library 
-to get CURL Library visit [CURL](https://curl.haxx.se/)
+>Note: This API uses CURL Library      Get [CURL HERE!!!](https://curl.haxx.se/)
