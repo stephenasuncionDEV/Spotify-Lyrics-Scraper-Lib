@@ -1,7 +1,9 @@
 # Spotify-Lyrics-Scraper-API
 Get spotify's current song and extract lyrics from a website.
 
-<img src="https://i.imgur.com/UN6jR4R.png" width="600" height="400" />
+-> This API extracts lyrics from https://www.azlyrics.com/. Usage of azlyrics.com content by any third-party lyrics provider is prohibited by their licensing agreement. This API is for educational purposes only.
+
+<img src="https://i.ibb.co/X7XDzsH/Screenshot-1.png"/>
 
 Coded in C++
 
